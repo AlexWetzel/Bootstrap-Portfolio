@@ -1,3 +1,42 @@
 body {
-	background-color: black;
+	background-color: #CFBD89;
+}
+
+.navbar-default {
+	background-color: #577782;
+	border-color: #375A65;
+
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+	color: #D7E2E5;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	background-color: #1D3E49;
+	color: #D7E2E5;
+}
+
+.jumbotron {
+	background-color: #FFF2CE;
+}
+
+.panel-default>.panel-heading {
+    color: #333333;
+    background-color: #CF8989;
+    border-color: #A25555;
+}
+
+.panel-default {
+	border-color: #A25555;
+}
+
+.panel {
+	background-color: #FFEEEE;
+}
+
+.thumbnail {
+	background-color: #FFF7EE;
+	border-color: #FFE7CE;
 }
